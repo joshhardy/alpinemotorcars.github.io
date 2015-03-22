@@ -67,15 +67,26 @@ body a:hover {
     text-decoration: none;
 }
 
+.accent-row {
+    background-color: #014225;
+    color:#fff;
+    padding: 40px;
+}
+
 .content-row-top {
-	padding: 20px 20px 0 20px;
+	padding: 20px 40px 0 40px;
 }
 
 .content-row {
-	padding: 0 20px;
+	padding: 20px 40px 20px 40px;
 }
 
 .content-row-heading {
 	margin:0;
 	padding:0;
+}
+
+.image-row img {
+	float:left;
+	height:100px;
 }
