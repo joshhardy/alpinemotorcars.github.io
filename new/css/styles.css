@@ -1,0 +1,81 @@
+body {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color: #000;
+	min-width: 800px;
+}
+
+.header-title {
+    margin: 0;
+    letter-spacing: -1px;
+}
+
+.header-tagline {
+	font-size: 20px;
+}
+
+.banner-image {
+	width: 100%;
+	margin: 0;
+}
+
+.banner {
+	position: relative;
+	margin:0;
+	padding:0;
+}
+
+.banner-overlay {
+	/*margin: -200px auto 154px 20px;*/
+	position: absolute;
+	top: 40px;
+	left:0;
+}
+
+.banner-overlay h3 { 
+   color: white;
+   padding: 20px; 
+}
+
+.header-left {
+	text-align: right;
+	background-color: #014225;
+    color: #fff;
+    padding:10px;
+}
+
+.header-left a {
+	text-decoration: none;
+	color:#fff;
+}
+
+.header-right {
+    color: #014225;
+}
+
+body a {
+    text-decoration: none;
+    color: #000;
+}
+
+body a:hover {
+    text-decoration: none;
+    color: #586165;
+}
+
+.accent-link {
+    color: #014225;
+    text-decoration: none;
+}
+
+.content-row-top {
+	padding: 20px 20px 0 20px;
+}
+
+.content-row {
+	padding: 0 20px;
+}
+
+.content-row-heading {
+	margin:0;
+	padding:0;
+}
