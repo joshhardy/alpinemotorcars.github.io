@@ -14,6 +14,17 @@ p {
 	   padding: 8px;
 	   font-size: 18px;
 	}
+
+	.content-row-top {
+		padding: 20px 0 0 0;
+	}
+    .content-row {
+		padding: 20px 0;
+	}
+	.accent-row {
+	    padding: 20px 0;
+	}
+
 	body {
 		min-width: 320px;
 	}
@@ -24,6 +35,16 @@ p {
 	   padding: 14px;
 	   font-size: 24px;
 	}
+	.content-row-top {
+		padding: 20px 0 0 0;
+	}
+    .content-row {
+		padding: 20px 0;
+	}
+	.accent-row {
+	    padding: 20px 0;
+	}
+		
 	body {
 		min-width: 500px;
 	}
@@ -35,6 +56,18 @@ p {
 	   padding: 60px 20px;
 	   font-size: 30px;
 	}
+
+	.content-row-top {
+		padding: 20px 40px 0 40px;
+	}
+
+	.content-row {
+		padding: 20px 40px 20px 40px;
+	}
+	.accent-row {
+	    padding: 40px;
+	}
+
 	body {
 		min-width: 912px;
 	}
@@ -102,15 +135,6 @@ body a:hover {
 .accent-row {
     background-color: #014225;
     color:#fff;
-    padding: 40px;
-}
-
-.content-row-top {
-	padding: 20px 40px 0 40px;
-}
-
-.content-row {
-	padding: 20px 40px 20px 40px;
 }
 
 .content-row-heading {
